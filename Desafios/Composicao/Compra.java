@@ -26,5 +26,4 @@ public class Compra {
         return total;
     }
 
-
 }
