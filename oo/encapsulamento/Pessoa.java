@@ -48,7 +48,6 @@ public class Pessoa {
 
     @Override
     public String toString() {
-        // TODO Auto-generated method stub
         return "Ola eu sou o " + getNome() + " tenho " + getIdade() + " anos.";
     }
 
